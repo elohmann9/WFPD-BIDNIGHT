@@ -1,11 +1,9 @@
-[README.md](https://github.com/user-attachments/files/32075983/README.md)
-# WFPD-BIDNIGHT
-The 2026 WFPD Shift Bid!
+[README-3.md](https://github.com/user-attachments/files/32076077/README-3.md)
 # Woodside Fire — Bid Night
 
 Live shift-bid board for the 2026 shift bid. Replaces the call-in-and-update-the-spreadsheet process with a board the whole department can watch in real time.
 
-**Live app:** https://YOURNAME.github.io/bid-night
+**Live app:** https://elohmann9.github.io/WFPD-BIDNIGHT
 
 Open it in any browser. Nothing to install.
 
